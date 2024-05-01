@@ -1,0 +1,2 @@
+# pybotters-v2-bitbank
+EXPERIMENTAL REPOSITORY FOR PYBOTTERS V2
